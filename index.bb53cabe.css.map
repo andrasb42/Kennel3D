@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["index.bb53cabe.css","public/src/style.css"],"sourcesContent":["canvas {\n  position: fixed;\n  top: 0;\n  left: 0;\n}\n/*# sourceMappingURL=index.bb53cabe.css.map */\n","canvas {\r\n    position: fixed;\r\n    top: 0;\r\n    left: 0;\r\n}"],"names":[],"version":3,"file":"index.bb53cabe.css.map"}
